@@ -1,0 +1,10 @@
+snapshots_knee_grading/*
+*.egg-info
+snapshots_release_kneel/*
+snapshots_release/*
+skyline-frontend/*
+skyline-backend-broker/*
+pacs-integration/*
+pics/*
+logs/*
+.git/

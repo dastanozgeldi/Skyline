@@ -1,0 +1,6 @@
+include README.md LICENSE.txt MANIFEST.in
+
+recursive-include ouluskyline *.npy *.pth *.pkl *.csv
+recursive-include ouluskyline *.ipynb *.md
+include create_conda_env.sh
+include run_experiments_*.sh
